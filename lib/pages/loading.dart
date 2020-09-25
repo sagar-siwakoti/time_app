@@ -17,6 +17,7 @@ String time='loading';
     'location':instance.location,
     'flag':instance.flag,
     'time':instance.time,
+    'isDaytime':instance.isDaytime,
   });
 }
 
